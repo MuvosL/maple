@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+.idea/
+docs
+
+# 本地工具配置（勿提交）
+.ai/
+.reasonix/
