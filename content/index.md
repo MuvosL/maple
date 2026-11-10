@@ -6,7 +6,6 @@ tags: []
 
 ## 关于本站
 
-jiayidian chenshu 
+现在笔记有所缺失，enmm，后面会整理好的。。。。
 
 这是一个基于 [Quartz v4](https://quartz.jzhao.xyz/) 构建的个人数字花园，正在整理中。
-dfsgsa
