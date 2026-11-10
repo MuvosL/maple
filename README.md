@@ -4,6 +4,8 @@
 
 在线访问：[muvosl.github.io/maple](https://muvosl.github.io/maple)
 
+想把这份仓库改成自己的站点并发布，请看 [GUIDE.md](GUIDE.md)。
+
 ## 技术栈
 
 - **Quartz v4**：静态站点生成，提供双链、反向链接、图谱、搜索与标签等数字花园能力。
