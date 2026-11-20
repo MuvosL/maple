@@ -2,8 +2,14 @@
 title: 重新认识AI
 date: 2026-05-31
 tags:
-  - AI
+  - 主题/人工智能
+  - 技术/Agent
+  - 笔记/原理
 ---
+
+> [!info] 知识关联
+> - **概念基础**：[[ai概念浅知]] — 回顾 Transformer、训练、RAG、MCP 与 Agent 的关系。
+> - **安全延伸**：[[AI安全攻防实战全景]] — 把 Rules、Skills、工具权限与执行闭环放到攻防场景中检查。
 
 # 0. 概述
 
@@ -13,7 +19,7 @@ tags:
 > 写作目标：不是泛泛介绍 AI，而是从"AI 的底层本质"讲起，逐步解释为什么 AI 会从语音对话、聊天助手，演化到今天的 AI IDE、Claude Code、OpenClaw 这类高级 Agent 系统。
 
 > [!summary] 相关内容
-> [[Model_Context_Protocol_MCP|MCP]]
+> MCP
 
 ---
 
